@@ -1,0 +1,33 @@
+.text-section h2 {
+    width: 35%;
+    height: 600px;
+    border-radius: 30px;
+    display: flex;
+    padding: 40px;
+}
+
+.content>h2 {
+
+
+    color: #000000;
+    width: 500;
+    height: 100px;
+    font-size: 40px;
+}
+.text-section p {
+    width: 38%;
+    height: 400px;
+    border-radius: 30px;
+    display: flex;
+    padding: 40px;
+}
+
+.content>p {
+
+    color: #000000;
+    width: 400;
+    height: 26px;
+    font-size: 18px;
+}
+
+
