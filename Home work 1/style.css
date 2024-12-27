@@ -45,9 +45,7 @@
     margin-top: -400px;
     padding-left: 50%;
 }
-.button {
-    padding-right: 100px;
-}
+
 .text-section button {
     background-color: #44d1cc;
     color: white;
@@ -56,15 +54,12 @@
     font-size: 1rem;
     border-radius: 50px;
     cursor: pointer;
-    padding-right: ;
-
-
 }
 
 .text-section button:hover {
     background-color: #36a8a1;
-    
-    
+        
 }
+
 
 
