@@ -1,32 +1,35 @@
+
 .header {
   width: 100%;
   height: 100px;
-  /* justify-content: space-between;
-  align-items: center; */
+  justify-content: space-between;
+  align-items: center;
 }
+
 .logo{
   position: relative;
  /* position: absolute; */
-  top: 80px;
+  top: 76px;
   left: 50px;
   
 
 }
 .box{
-  width: 1700px;
+  width: 1650pxpx;
   height:90px ;
-  top:25px;
+  top:px;
   left: 30px;
   border-radius: 70PX;
   background-color: #e2d3d3;
   margin-top:20PX ;
+   justify-content: center;
 }
 .box2{
   position: relative;
   width: 650px;
   height:60px;
   top:-95px;
-  left: 580px;
+  left: 500px;
   border-radius: 70PX;
   background-color: #ffffff;
   margin-top:20PX ;
@@ -34,20 +37,146 @@
 }
 .nav>ul {
   position: relative;
-  position: relative;
   display: flex;
   gap: 50px;
   list-style-type: none;
   font-size: 20px;
   color: #000;
-  top:-155px;
-  justify-content: center;
+  top:-140px;
+  left: 29%;
+  /* justify-content: center; */
 }
 .icon{
   position: relative;
   position: absolute;
   width:  24px;
   height: 24px;
-  top:  95px;
-  left: 68%;
+  top: 80px;
+  left: 65%;
+}
+.nav2>ul {
+  position: relative;
+  display: flex;
+  gap: 50px;
+  list-style-type: none;
+  font-size: 25px;
+  color: #000;
+  top:-190px;
+  left: 72%;
+}
+.Contactus>button {
+  position: relative;
+  position: absolute;
+ width: 180px;
+ height: 60px;
+ top: 62px;
+ left: 1228;
+ border-radius: 40px;
+ border: 1px;
+ left: 88%;
+}
+/* @media (max-width: 768px) {
+    .container {
+        overflow: auto;
+    }
+} */
+.tiitle{
+  position: relative;
+  position: absolute;
+  width: 1650px;
+  height:617px ;
+  top: 20%;
+  left: 30px;
+  border-radius: 15PX;
+  margin-top:20PX ;
+   justify-content: center;
+}
+ 
+ .box3{
+  position: relative;
+  position: absolute;
+  width: 1630px;
+  height:700px ;
+  top: 20%;
+  left: 30px;
+  border-radius: 15PX;
+  background-color: #e2d3d3;
+  margin-top:20PX ;
+  justify-content: center; 
+}
+.content>h2 {
+  position: absolute;
+  width: 479px;
+  height:160px ;
+  color: #000000;
+ top: 370px;
+ left: 72px;
+ font-size: 65px;
+ line-height:  80.4px;
+}
+.content>p {
+  position: absolute;
+  font-size: 18px;
+  width: 176px;
+  height: 19px;
+  top: 350px;
+  left: 76px;
+  color: #000000;
+}
+.text>p{
+  position: absolute;
+  font-size: 18px;
+  width: 435px;
+  height: 48px;
+  top: 550px;
+  left: 75px;
+  color: #000000;
+}
+.Email{
+  position: relative;
+  position: absolute;
+  width: 500px;
+  height: 60px;
+  top:-100%;
+  border-radius: 40px;
+  left: 76px;
+  
+}
+.email-container {
+  display: flex;
+  align-items: center;
+  border: 2px solid #ccc; 
+  border-radius: 50px; 
+  overflow: hidden; 
+  width: 438px; 
+  height: 60px;
+}
+
+.email-container input {
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  flex: 1; 
+  font-size: 16px;
+}
+
+.email-container input::placeholder {
+  color: #aaa; 
+}
+
+.email-container button {
+  background-color: #000; 
+  color: #fff; 
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 0;
+  width: 147pxx; 
+  height: 60px;  
+  border-radius: 40px;
+}
+
+.email-container button:hover {
+  background-color: #333; 
 }
