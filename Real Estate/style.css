@@ -80,7 +80,7 @@
         overflow: auto;
     }
 } */
-.tiitle{
+. image{
   position: relative;
   position: absolute;
   width: 1650px;
@@ -96,7 +96,7 @@
   /* position: relative; */
   position: absolute;
   width: 1630px;
-  height:700px ;
+  height:650px ;
   top: 20%;
   left: 30px;
   border-radius: 15PX;
@@ -147,7 +147,7 @@
   display: flex;
   align-items: center;
   border: 2px solid #ccc; 
-  border-radius: 50px; 
+  border-radius: px; 
   overflow: hidden; 
   width: 438px; 
   height: 60px;
@@ -182,7 +182,41 @@
   background-color: #0c0c0c; 
 }
 .email-container{
-  top: 80%;
+  top: 85%;
   position: absolute;
   left: 70px;
+}
+.image2{
+  position: absolute;
+  width: 1200px;
+  height: 2000px;
+  top: 200px;
+  left: 875px;
+}
+.text2{
+  position: absolute;
+  width: 300px;
+  height: 19px;
+  top: 900px;
+  left: 700px;
+  font-size: 20px;
+}
+.content2>h2{
+  position: absolute;
+  width: 788px;
+  height: 60px;
+  top: 950px;
+  left: 480px;
+  font-size: 50px;
+  line-height: 60px;
+
+}
+.card{
+  position: relative;
+  position: absolute;
+  width: 1307px;
+  height: 225px;
+  top: 1021px;
+  left: 66px;
+  display: flex;
 }
