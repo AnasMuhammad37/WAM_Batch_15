@@ -1,0 +1,86 @@
+.cs-navbar {
+    /* background-color: #ff0000; */
+    height: 130px;
+}
+.navbar-brand img {
+    position: absolute;
+    height: 36px;
+    width: 207.41px; 
+    top: 43px;   
+    left: 3%; 
+}
+
+.cs-btn-black {
+    /* background-color: #000000;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    padding: 6px 30px
+     */
+     position: absolute;
+     width : 133px;
+     height : 45px;
+     right: 34px;
+     /* left: 34px; */
+     gap: 3%;
+     top: 43px; 
+}
+
+
+.cs-navbar-nav>li>a {
+    color: #000;
+    font-weight: bold;
+    
+}
+
+.cs-navbar-nav>li {
+position: relative;
+width: 100.53px;
+/* height: 31px; */
+gap: 66.18px;
+right: 300px;
+font-size: 16px;
+top: 1px;   
+}
+
+.cs-content-box {
+    text-align: left; 
+    margin: 20px 0; 
+    padding: 20px;   
+}
+
+.cs-content-box h1 {
+    position: relative;
+    font-size: 3rem; 
+    color: #000000; 
+    font-weight: bold; 
+    line-height: 1.2; 
+    margin-bottom: 10px;
+    margin-top: 40px;
+    
+}
+
+.cs-content-box p {
+    font-size: 1.2rem; 
+    color: #000000; 
+    line-height: 1.6; 
+    margin-bottom: 10px; 
+}
+.cs-content-box{
+    position: relative;
+    right: 50px;
+    margin-bottom: 40px;
+    
+}
+.cs-content{
+    position:relative;
+    margin-bottom: 10px;
+    
+}
+.cs-image-box{
+    position: absolute;
+    width: 573px;
+    height: 573px;
+    top: 1px;
+    left: 650px;
+    
+}

@@ -25,6 +25,7 @@ body {
     
 }
 .nav>ul{
+    
     display: flex;
     gap: 50px;
     list-style-type: none;

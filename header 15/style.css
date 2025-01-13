@@ -1,0 +1,19 @@
+
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.logo{
+    position: absolute; 
+    position: relative;
+    top: 90px;
+    left: 10px;
+    width: 100px;
+    
+}
+.nav>ul{
+    width: 405px
+    
+}
