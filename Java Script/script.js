@@ -40,3 +40,9 @@ Score of ${students[1]} is ${scores[1]}. Percentage: ${percentage2}%
 Score of ${students[2]} is ${scores[2]}. Percentage: ${percentage3}%
 `;
 
+// unary Opertors 
+let a = 5;
+let a =2;
+
+a = a + 1;
+console .log (a);
